@@ -1,4 +1,4 @@
-# npm run dev for linux
+# $npm run dev for linux (runs json-server also)
 
 ## This project needs backend database. here db.json is used as a database for the server.
 
